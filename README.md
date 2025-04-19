@@ -18,4 +18,21 @@ header
 - install axois 
 - setup interceptor 
 - setup backend as well as
-- 
+
+
+# task02 - 
+
+Debounce - 
+
+u want to stop re rendering in every time then we can use this thats is called debounce - 
+-- this is handle by (setTimeout + delay)
+
+
+#Difference between Context api and redux/zus-
+
+# differnce between useRef/ useCallback/ useMemo 
+
+#useMemo 
+- memoize the state between rerendering two times rerender ...
+
+
